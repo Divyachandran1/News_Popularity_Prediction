@@ -9,4 +9,5 @@ scikit-learn
 vaderSentiment
 matplotlib
 seaborn
+joblib
 streamlit
